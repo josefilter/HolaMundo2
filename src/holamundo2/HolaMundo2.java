@@ -18,6 +18,7 @@ public class HolaMundo2 {
         
         System.out.println("hola mundo desde el programa 2");
     	System.out.println("Holiiiii");
+	System.out.println("IES VElez");
 	}
     
 }
